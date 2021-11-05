@@ -13,6 +13,12 @@
 		CC61B06C273574CC008C86ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC61B06A273574CC008C86ED /* Main.storyboard */; };
 		CC61B06E273574CD008C86ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC61B06D273574CD008C86ED /* Assets.xcassets */; };
 		CC61B071273574CD008C86ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC61B06F273574CD008C86ED /* LaunchScreen.storyboard */; };
+		CC61B07E273583F3008C86ED /* kensington.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B078273583F2008C86ED /* kensington.jpg */; };
+		CC61B07F273583F3008C86ED /* buckingham.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B079273583F2008C86ED /* buckingham.jpg */; };
+		CC61B080273583F3008C86ED /* london_eye.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B07A273583F2008C86ED /* london_eye.jpg */; };
+		CC61B081273583F3008C86ED /* tower_bridge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B07B273583F2008C86ED /* tower_bridge.jpg */; };
+		CC61B082273583F3008C86ED /* trafalgar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B07C273583F2008C86ED /* trafalgar.jpg */; };
+		CC61B083273583F3008C86ED /* westminster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B07D273583F2008C86ED /* westminster.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		CC61B06D273574CD008C86ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC61B070273574CD008C86ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC61B072273574CD008C86ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC61B078273583F2008C86ED /* kensington.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kensington.jpg; path = ../../../../Downloads/kensington.jpg; sourceTree = "<group>"; };
+		CC61B079273583F2008C86ED /* buckingham.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = buckingham.jpg; path = ../../../../Downloads/buckingham.jpg; sourceTree = "<group>"; };
+		CC61B07A273583F2008C86ED /* london_eye.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = london_eye.jpg; path = ../../../../Downloads/london_eye.jpg; sourceTree = "<group>"; };
+		CC61B07B273583F2008C86ED /* tower_bridge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tower_bridge.jpg; path = ../../../../Downloads/tower_bridge.jpg; sourceTree = "<group>"; };
+		CC61B07C273583F2008C86ED /* trafalgar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trafalgar.jpg; path = ../../../../Downloads/trafalgar.jpg; sourceTree = "<group>"; };
+		CC61B07D273583F2008C86ED /* westminster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = westminster.jpg; path = ../../../../Downloads/westminster.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,12 @@
 		CC61B063273574CC008C86ED /* LandmarkBook */ = {
 			isa = PBXGroup;
 			children = (
+				CC61B079273583F2008C86ED /* buckingham.jpg */,
+				CC61B078273583F2008C86ED /* kensington.jpg */,
+				CC61B07A273583F2008C86ED /* london_eye.jpg */,
+				CC61B07B273583F2008C86ED /* tower_bridge.jpg */,
+				CC61B07C273583F2008C86ED /* trafalgar.jpg */,
+				CC61B07D273583F2008C86ED /* westminster.jpg */,
 				CC61B064273574CC008C86ED /* AppDelegate.swift */,
 				CC61B066273574CC008C86ED /* SceneDelegate.swift */,
 				CC61B068273574CC008C86ED /* ViewController.swift */,
@@ -125,8 +143,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC61B082273583F3008C86ED /* trafalgar.jpg in Resources */,
+				CC61B083273583F3008C86ED /* westminster.jpg in Resources */,
 				CC61B071273574CD008C86ED /* LaunchScreen.storyboard in Resources */,
+				CC61B080273583F3008C86ED /* london_eye.jpg in Resources */,
+				CC61B07E273583F3008C86ED /* kensington.jpg in Resources */,
+				CC61B07F273583F3008C86ED /* buckingham.jpg in Resources */,
 				CC61B06E273574CD008C86ED /* Assets.xcassets in Resources */,
+				CC61B081273583F3008C86ED /* tower_bridge.jpg in Resources */,
 				CC61B06C273574CC008C86ED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
