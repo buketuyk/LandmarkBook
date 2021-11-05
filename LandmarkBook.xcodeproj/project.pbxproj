@@ -19,6 +19,7 @@
 		CC61B081273583F3008C86ED /* tower_bridge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B07B273583F2008C86ED /* tower_bridge.jpg */; };
 		CC61B082273583F3008C86ED /* trafalgar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B07C273583F2008C86ED /* trafalgar.jpg */; };
 		CC61B083273583F3008C86ED /* westminster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC61B07D273583F2008C86ED /* westminster.jpg */; };
+		CC61B0852735A428008C86ED /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC61B0842735A427008C86ED /* imageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		CC61B07B273583F2008C86ED /* tower_bridge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tower_bridge.jpg; path = ../../../../Downloads/tower_bridge.jpg; sourceTree = "<group>"; };
 		CC61B07C273583F2008C86ED /* trafalgar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trafalgar.jpg; path = ../../../../Downloads/trafalgar.jpg; sourceTree = "<group>"; };
 		CC61B07D273583F2008C86ED /* westminster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = westminster.jpg; path = ../../../../Downloads/westminster.jpg; sourceTree = "<group>"; };
+		CC61B0842735A427008C86ED /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				CC61B064273574CC008C86ED /* AppDelegate.swift */,
 				CC61B066273574CC008C86ED /* SceneDelegate.swift */,
 				CC61B068273574CC008C86ED /* ViewController.swift */,
+				CC61B0842735A427008C86ED /* imageViewController.swift */,
 				CC61B06A273574CC008C86ED /* Main.storyboard */,
 				CC61B06D273574CD008C86ED /* Assets.xcassets */,
 				CC61B06F273574CD008C86ED /* LaunchScreen.storyboard */,
@@ -164,6 +167,7 @@
 			files = (
 				CC61B069273574CC008C86ED /* ViewController.swift in Sources */,
 				CC61B065273574CC008C86ED /* AppDelegate.swift in Sources */,
+				CC61B0852735A428008C86ED /* imageViewController.swift in Sources */,
 				CC61B067273574CC008C86ED /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
